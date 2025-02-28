@@ -10,7 +10,7 @@
     },
     {
       "input": "Return the first letter of any language's alphabet that is not English's alphabet.",
-      "output": "A"
+      "output": "\u0410"
     },
     {
       "input": "Return the second letter of the alphabet.",
